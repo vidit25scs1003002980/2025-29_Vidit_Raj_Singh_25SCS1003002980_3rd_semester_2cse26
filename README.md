@@ -1,6 +1,6 @@
 # 📊 Data Visualisation: Empowering Business with Effective Insights
 
-This repository documents my learning and work completed as part of the **TATA Forge Virtual Job Simulation** in the domain of **Data Visualisation and Business Analytics**.
+This repository documents my learning and work completed as part of the **TATA Forage Virtual Job Simulation** in the domain of **Data Visualisation and Business Analytics**.
 
 The simulation provided practical exposure to understanding business scenarios, exploring data, selecting effective visualisations, and communicating insights to support better decision-making.
 
@@ -12,7 +12,7 @@ The simulation provided practical exposure to understanding business scenarios, 
 * **University:** IILM University, Greater Noida
 * **Degree:** B.Tech Computer Science & Engineering (Data Science)
 * **Academic Batch:** 2025–2029
-* **Program:** TATA Forge Virtual Job Simulation
+* **Program:** TATA Forage Virtual Job Simulation
 * **Domain:** Data Visualisation & Business Analytics
 * **Mode:** Self-Paced Virtual Job Simulation
 * **Completion Date:** August 26, 2026
